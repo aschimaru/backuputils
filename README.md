@@ -14,3 +14,14 @@ You can run it directly as a console app:
 dotnet run
 ```
 You can also run it via Visual Studio, just open the .sln for that.
+
+## 📦 Future Ideas
+CLI arguments (--dest, --source, --ext)
+Support for multiple file types
+Parallelized copying
+Optionally recreate source structure
+
+## 🤝 Contributing
+Feel free to open issues or submit pull requests. Even small fixes or tweaks
+
+Made with ☕ and ❤️
